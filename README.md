@@ -16,3 +16,10 @@ Minecraft 1.21.11 server software for big player counts. Gameplay stays vanilla,
 
 - **Bots moving inside one 32 × 32 block area, Locator Bar off, mean of two runs:** with 1,400 bots TickWise now runs at 19.7 TPS and 47.7 ms a tick (the day before: 17.7 TPS, 56.9 ms). With 2,000 bots it runs at 11.0 TPS and 92.0 ms (the day before: 8.9 TPS, 113.6 ms).
 - Gameplay stays vanilla: each change was compared with the original code on a live server and gave the same results.
+
+## 25 November 2026, update
+
+![TickWise moving crowds, before and after](2026-11-25/tickwise-1800-moving.png)
+
+- **Bots moving inside one 32 × 32 block area, Locator Bar off, mean of two runs:** with 1,800 bots TickWise now holds 20 TPS at 30.1 ms a tick (before: 12.1 TPS, 84.4 ms). With 2,000 bots it holds 20 TPS at 35.3 ms (before: 9.0 TPS, 112.5 ms).
+- Gameplay stays vanilla: each change was compared with the original code on a live server and gave the same results.
